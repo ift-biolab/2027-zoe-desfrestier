@@ -8,10 +8,12 @@ title: "Home"
 
 | Field | Value |
 |---|---|
-| Student or team | To be completed |
-| Programme and cohort | To be completed |
-| Project title | To be completed |
-| Supervisor | To be completed |
+| Student or team | Zoé Desfrestier |
+| Academic year | 2026–2027 |
+| Level | A4 |
+| Programme | DBLT Elective |
+| Focus | Biomaterials |
+| Supervisor | Vivien Roussel |
 | Current status | To be completed |
 
 ## Documentation
