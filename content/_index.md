@@ -14,7 +14,7 @@ title: "Home"
 | Programme | DBLT Elective |
 | Focus | Biomaterials |
 | Supervisor | Vivien Roussel |
-| Current status | To be completed |
+| Current status | en cours |
 
 ## Documentation
 
